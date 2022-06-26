@@ -1,1 +1,1 @@
-# .Net-Api-Solid Design Pattern
+# .Net-Api-SOLID Design Pattern

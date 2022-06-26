@@ -1,1 +1,1 @@
-# .Net-Api-Solid-and-Clean-Architecture-
+# .Net-Api-Solid Design Pattern
